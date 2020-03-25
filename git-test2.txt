@@ -1,4 +1,4 @@
 Getting Git is legit.
 
 
-typing in another line
+Deleted the original text in this line and replaced it with this text.
